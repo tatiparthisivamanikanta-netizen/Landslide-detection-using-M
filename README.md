@@ -29,7 +29,7 @@ Model Saving	Joblib / Pickle
 Follow these steps to quickly set up and run the Landslide Detection Using Machine Learning project:
 
 1️⃣ Clone the Repository
-git clone https://github.com/venkatesudondla/landslide-detection-ml.git
+git clone https://github.com/tatiparthisivamanikanta-netizen/Landslide-detection-using-M.git
 cd landslide-detection-ml
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
